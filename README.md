@@ -38,19 +38,6 @@ Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escal
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=cocontador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=cocontador&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Languages" />
-  </p>
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <p>
