@@ -1,4 +1,4 @@
-# Hola, Soy Constanza Contador Moraga 👋
+<img width="1819" height="967" alt="image" src="https://github.com/user-attachments/assets/26ae7e6d-72dc-4e06-a0ce-5eb99bd95fca" /># Hola, Soy Constanza Contador Moraga 👋
 
 **Full Stack Developer | Analista Programadora | Scrum Master**
 
@@ -40,23 +40,23 @@ Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escal
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cocontador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-languages/?username=cocontador&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cocontador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=cocontador&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Languages" />
+</div>
 ---
 
 ## 📬 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/cocontador" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:constanzacontador.mo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portafolioconstanzacontador.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
