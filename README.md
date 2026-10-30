@@ -15,13 +15,13 @@ Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escal
   <img src="https://img.shields.io/badge/React-F472B6?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-E879F9?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-34D399?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-34D399?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FBBF24?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### Backend & Core
 <p>
-  <img src="https://img.shields.io/badge/Node.js-4ADE80?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-4ADE80?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-60A5FA?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-A78BFA?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-818CF8?style=for-the-badge&logo=docker&logoColor=white" />
@@ -32,7 +32,7 @@ Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escal
 
 ## 💼 Experiencia Clave
 
-* 🚀 **WALO (SaaS Multitenant):** Rol de Scrum Master y Desarrolladora. Creación de plataforma para digitalización de microemprendedores con catálogo, pedidos por WhatsApp e integración de pagos (en proceso de postulación a fondos CORFO).
+* 🚀 **WALO (SaaS Multitenant):** Rol de Scrum Master y Desarrolladora Principal. Creación de plataforma para digitalización de microemprendedores con catálogo, pedidos por WhatsApp e integración de pagos (en proceso de postulación a fondos CORFO).
 * ☁️ **CloudLatam (Práctica Profesional):** Inmersión en arquitectura, redes y seguridad en Google Cloud Platform (GCP) durante 4 meses.
 * 💻 **Proyectos Académicos y Web:** Desarrollo de aplicaciones interactivas y sistemas de comercio electrónico (como *Bosque Antiguo*) utilizando React, Next.js y bases de datos relacionales.
 
@@ -42,7 +42,7 @@ Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escal
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cocontador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722" alt="GitHub Stats" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=cocontador&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Languages" />
 </div>
 
