@@ -12,20 +12,20 @@ Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escal
 
 ### Frontend Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-F472B6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-E879F9?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-34D399?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FBBF24?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### Backend & Core
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-4ADE80?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-60A5FA?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-A78BFA?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-818CF8?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FB7185?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -45,18 +45,19 @@ Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escal
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=cocontador&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Languages" />
 </div>
+
 ---
 
 ## 📬 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/cocontador" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:constanzacontador.mo@gmail.com">
     <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portafolioconstanzacontador.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
