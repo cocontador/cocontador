@@ -1,8 +1,8 @@
-<img width="1819" height="967" alt="image" src="https://github.com/user-attachments/assets/26ae7e6d-72dc-4e06-a0ce-5eb99bd95fca" /># Hola, Soy Constanza Contador Moraga 👋
+# Hola, Soy Constanza Contador Moraga 👋
 
 **Full Stack Developer | Analista Programadora | Scrum Master**
 
-> " Analista programadora y desarrolladora de software, combinando mi experiencia en el área de la salud , como cirujana dentista con casi 7 años de ejercicio profesional, y ahora ofreciendo soluciones tecnológicas reales."
+> "Analista programadora y desarrolladora de software, combinando mi experiencia en el área de la salud, como cirujana dentista con casi 7 años de ejercicio profesional, y ahora ofreciendo soluciones tecnológicas reales."
 
 Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escalables, gestión de proyectos tecnológicos y arquitecturas modernas en la nube. Con experiencia destacada liderando el desarrollo de SaaS multitenant y optimización de flujos web.
 
@@ -32,18 +32,21 @@ Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escal
 
 ## 💼 Experiencia Clave
 
-* 🚀 **WALO (SaaS Multitenant):** Rol de Scrum Master y Desarrolladora Principal. Creación de plataforma para digitalización de microemprendedores con catálogo, pedidos por WhatsApp e integración de pagos (en proceso de postulación a fondos CORFO).
-* ☁️ **CloudLatam (Práctica Profesional):** Inmersión en arquitectura, redes y seguridad en Google Cloud Platform (GCP) durante 4 meses.
-* 💻 **Proyectos Académicos y Web:** Desarrollo de aplicaciones interactivas y sistemas de comercio electrónico (como *Bosque Antiguo*) utilizando React, Next.js y bases de datos relacionales.
+- 🚀 **WALO (SaaS Multitenant):** Rol de Scrum Master y Desarrolladora Principal. Creación de plataforma para digitalización de microemprendedores con catálogo, pedidos por WhatsApp e integración de pagos (en proceso de postulación a fondos CORFO).
+- ☁️ **CloudLatam (Práctica Profesional):** Inmersión en arquitectura, redes y seguridad en Google Cloud Platform (GCP) durante 4 meses.
+- 💻 **Proyectos Académicos y Web:** Desarrollo de aplicaciones interactivas y sistemas de comercio electrónico (como *Bosque Antiguo*) utilizando React, Next.js y bases de datos relacionales.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cocontador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=cocontador&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Languages" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=cocontador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=cocontador&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Languages" />
+  </p>
 </div>
 
 ---
