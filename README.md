@@ -50,4 +50,7 @@ Desarrolladora Full Stack enfocada en la construcción de aplicaciones web escal
   <a href="https://portafolioconstanzacontador.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+   <a href="./asset/CV%20Constanza%20Contador.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Currículum-F472B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF" />
+  </a>
 </p>
